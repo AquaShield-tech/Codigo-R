@@ -226,3 +226,4 @@ comparacoes <- list(
 for (cmp in comparacoes) {
   analisa_grupo(cmp$maquinas, cmp$id, cmp$titulo)
 }
+
